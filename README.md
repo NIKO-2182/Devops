@@ -1,4 +1,4 @@
-# 🚀 Nihar's DevOps Arsenal
+# 🚀DevOps 
 
 [![Open Source Love](https://badges.frapsoft.com/os/vector/blue.svg)](https://github.com/your-username/devops)
 [![GitHub stars](https://img.shields.io/github/stars/your-username/devops?style=social)](https://github.com/your-username/devops)
